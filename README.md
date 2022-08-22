@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vitalii
 - 👀 I’m interested in development
-- 🌱 I’m currently learning JAVA, SQL, Android
+- 🌱 I’m currently learning Python, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
